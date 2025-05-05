@@ -129,20 +129,11 @@ DB_STORAGE=./database.sqlite
 
 ## 📝 Author & License
 
-- Built by [Your Name]
+- Built by ISHEMAH
 - MIT License
 
 ---
 
-## 🙏 Acknowledgements
-
-- [Ant Design](https://ant.design/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [Chart.js](https://www.chartjs.org/)
-- [React Chart.js 2](https://react-chartjs-2.js.org/)
-- [React Toastify](https://fkhadra.github.io/react-toastify/)
-
----
 
 ## 💡 Tips
 - For any issues, check the browser console and backend logs.
